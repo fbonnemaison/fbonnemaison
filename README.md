@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Architecture<br>👯 I’m looking to collaborate on BIM<br>🤝 I’m looking for help with pyRevit<br>🌱 I’m currently learning Python<br>💬 Ask me about antiArchitecture<br>⚡ Fun fact: cat-lover, game-player
 
 
 ## 🌐 Socials:
